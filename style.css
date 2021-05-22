@@ -89,6 +89,10 @@ article p {
     margin: 10px 0 15px 45px;
 }
 
+aritcle a {
+    margin-top: 15px;   
+}
+
 footer {
     display: flex;
     background-color: #1240AB;
